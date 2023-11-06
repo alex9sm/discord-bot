@@ -2,8 +2,8 @@ package main
 
 import(
 	"fmt"
-	"github.com/alex9sm/discord-bot/bot"
-	"github.com/alex9sm/discord-bot/config"
+	"discord-bot/bot"
+	"discord-bot/config"
 )
 
 func main() {
